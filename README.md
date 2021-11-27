@@ -11,3 +11,6 @@ In order to see my dream of a surf and shake shop come to fruition, I need to ge
 
 ## Summary of Surfs Up Analysis:  
 This temperature data was a good start, but there was so much more we could do.  I could run a query and track precipitation data to show W. Avy or review which stations are most active in recording weather data.  As this relationship, built on surf and sugar continues the data points to a bright future together.
+
+![Dec temps](images/Dec_temps.PNG)
+![June temps](images/June_temps.PNG)
